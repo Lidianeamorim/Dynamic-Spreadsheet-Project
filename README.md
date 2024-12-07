@@ -1,5 +1,8 @@
 ### PROJETO PLANILHA DINÂMICA
 
+![captura de tela](https://github.com/Lidianeamorim/Dynamic-Spreadsheet-Project/blob/main/Captura%20de%20tela%202024-12-07%20125657.png?raw=true)
+
+
 > ℹ️ **NOTE:**
 
 Este projeto foi desenvolvido durante o Bootcamp da Caixa, em parceria com a DIO, sob a orientação do professor Felipe Aguiar. O objetivo do projeto é criar uma planilha dinâmica utilizando dados fictícios, que serviram apenas para a elaboração da planilha.
@@ -33,4 +36,9 @@ dados muito mais intuitiva. Um dos maiores aprendizados foi entender a importân
 de um Dashboard interativo na análise de dados. Este projeto não só melhorou minhas 
 habilidades técnicas, mas também me deu confiança para enfrentar novos desafios. 
 No futuro, planejo explorar ainda mais as funcionalidades das planilhas para criar 
-soluções ainda mais sofisticadas
+soluções ainda mais sofisticadas, espero que gostem.
+
+### 📂 Planilha
+
+Você pode acessar a planilha dinâmica criada durante o projeto através do [link da planilha](https://onedrive.live.com/edit?id=E605C2C3AC638290!591&resid=E605C2C3AC638290!591&ithint=file%2cxlsx&authkey=!AJBR037G2G9z_8o&wdo=2&cid=e605c2c3ac638290).
+
